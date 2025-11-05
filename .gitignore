@@ -1,0 +1,21 @@
+# === Backend ===
+backend/email-response-ai-springboot/target/
+backend/email-response-ai-springboot/.mvn/
+backend/email-response-ai-springboot/src/main/resources/application.properties
+backend/email-response-ai-springboot/src/main/resources/application.yml
+
+# === Frontend ===
+frontend/email-responder-ai-react/node_modules/
+frontend/email-responder-ai-react/dist/
+frontend/email-responder-ai-react/.env
+
+# === IDEs ===
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+
+# === System Files ===
+.DS_Store
+Thumbs.db
