@@ -1,16 +1,19 @@
-🖥️ Frontend — Email Responder AI (React)
+# 🖥️ Frontend — Email Responder AI (React)
 
-The frontend is a React + Vite application built with Material UI for a sleek and responsive interface.
-It allows users to input email content, select a tone, and generate AI-powered replies instantly by connecting to the Spring Boot backend API.
+The frontend is a **React + Vite** application built with **Material UI** for a sleek, responsive, and modern interface.  
+It allows users to input email content, select a tone, and generate **AI-powered replies** instantly by connecting to the Spring Boot backend API.
 
-🚀 Tech Stack
+---
 
-React (Vite)
+## 🚀 Tech Stack
+- ⚛️ **React (Vite)**
+- 🎨 **Material UI (MUI)**
+- 🔗 **Axios** for API communication
 
-Material UI (MUI)
+---
 
-Axios (API Integration)
+## ⚙️ Run Locally
 
-⚙️ Run Locally
-npm install
-npm run dev
+1. Navigate to the frontend directory:
+   ```bash
+   cd frontend/email-responder-ai-react
